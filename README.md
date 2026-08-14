@@ -1,39 +1,59 @@
-# ShelfPod Community
+# ShelfPod
 
-Public feedback and issue tracker for ShelfPod.
+A native iPhone and iPad client for podcasts and audiobooks on self-hosted [Audiobookshelf](https://www.audiobookshelf.org/) servers.
 
-ShelfPod is an iOS client for self-hosted Audiobookshelf servers, built for podcast listening, library browsing, offline playback, and progress sync.
+**[Download on the App Store](https://apps.apple.com/app/id6781744751)** &middot; **[Join the TestFlight beta](https://testflight.apple.com/join/wszEWVsw)**
 
-This repository is for:
+> **In the AI era, ideas are abundant. Taste is scarce.**
 
-- Bug reports
-- Feature requests
-- Public roadmap discussions
-- Self-hosted community feedback
+ShelfPod does not ship AI slop. A large part of the work goes into the details that decide whether an app feels coherent: interface, navigation, spacing, motion, gestures, scrolling, feedback, and predictable playback behavior.
 
-This repository does not contain the ShelfPod app source code.
+<p align="center">
+  <img src=".github/assets/screenshots/01-all-in-one.jpg" width="31%" alt="Podcasts and audiobooks together in ShelfPod">
+  <img src=".github/assets/screenshots/02-library-overview.jpg" width="31%" alt="ShelfPod podcast library">
+  <img src=".github/assets/screenshots/03-chapters.jpg" width="31%" alt="Chapter navigation in ShelfPod">
+</p>
 
-## Project Status
+<p align="center">
+  <img src=".github/assets/screenshots/04-sleep-timer.jpg" width="31%" alt="ShelfPod sleep timer">
+  <img src=".github/assets/screenshots/05-search.jpg" width="31%" alt="Podcast discovery and search in ShelfPod">
+  <img src=".github/assets/screenshots/06-library.jpg" width="31%" alt="ShelfPod library view">
+</p>
 
-ShelfPod is currently in active development and preparing for broader testing.
+## What ShelfPod Does
 
-## Useful Links
+- Browse podcast and audiobook libraries from your Audiobookshelf server
+- Stream or download media for offline listening
+- Read show notes, navigate chapters, and save audiobook bookmarks
+- Build and reorder Up Next
+- Adjust playback speed, use a sleep timer, and set per-podcast intro and outro skipping
+- Keep progress current with Audiobookshelf, with optional live cross-device sync
 
-- Audiobookshelf: https://www.audiobookshelf.org/
-- Issues: https://github.com/Ryziii/ShelfPod-community/issues
+## Active Development
 
-## What To Include In Issues
+Development began in May 2026. TestFlight builds followed in June, and ShelfPod launched on the App Store on August 12.
 
-For bugs, include:
+The app is moving quickly while it is young. Five TestFlight builds - 109, 110, 112, 113, and 115 - were uploaded between August 9 and August 14. Version 0.2.0 is on the App Store, with 0.2.1 already moving through TestFlight. This pace reflects active stabilization and refinement; releases do not follow a fixed schedule.
 
-- iOS version
-- Audiobookshelf server version
-- Whether the server is local, remote, reverse-proxied, or VPN-only
-- Steps to reproduce
-- Screenshots or logs, if helpful
+## Requirements
 
-For feature requests, include:
+- iOS or iPadOS 26.0 or later
+- An existing Audiobookshelf server and account
 
-- The listening workflow you want to improve
-- How you solve it today
-- Why it matters for self-hosted podcast or audiobook use
+ShelfPod does not include media or provide an Audiobookshelf server. Some advanced features are available through optional ShelfPod Premium.
+
+## Feedback and Support
+
+- [Report a bug or request a feature](https://github.com/Ryziii/ShelfPod-community/issues/new/choose)
+- [View existing issues](https://github.com/Ryziii/ShelfPod-community/issues)
+- [Support](https://shelfpod.pages.dev/support/)
+- [Privacy Policy](https://shelfpod.pages.dev/privacy/)
+- [Terms of Use](https://shelfpod.pages.dev/terms/)
+
+For bug reports, include the ShelfPod version, iOS or iPadOS version, Audiobookshelf server version, connection type, and clear reproduction steps. Never post passwords, access tokens, private feed URLs, or unredacted logs.
+
+## About This Repository
+
+This repository contains ShelfPod product information, public bug reports, and feature requests. The ShelfPod app source code is not public.
+
+ShelfPod is independently developed and is not affiliated with or endorsed by the Audiobookshelf project.
