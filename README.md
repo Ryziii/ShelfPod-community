@@ -9,15 +9,17 @@ A native iPhone and iPad client for podcasts and audiobooks on self-hosted [Audi
 ShelfPod does not ship AI slop. A large part of the work goes into the details that decide whether an app feels coherent: interface, navigation, spacing, motion, gestures, scrolling, feedback, and predictable playback behavior.
 
 <p align="center">
-  <img src=".github/assets/screenshots/01-all-in-one.jpg" width="31%" alt="Podcasts and audiobooks together in ShelfPod">
-  <img src=".github/assets/screenshots/02-library-overview.jpg" width="31%" alt="ShelfPod podcast library">
-  <img src=".github/assets/screenshots/03-chapters.jpg" width="31%" alt="Chapter navigation in ShelfPod">
+  <img src=".github/assets/screenshots/01.png" width="23%" alt="ShelfPod screenshot 1">&nbsp;&nbsp;
+  <img src=".github/assets/screenshots/02.png" width="23%" alt="ShelfPod screenshot 2">&nbsp;&nbsp;
+  <img src=".github/assets/screenshots/03.png" width="23%" alt="ShelfPod screenshot 3">&nbsp;&nbsp;
+  <img src=".github/assets/screenshots/04.png" width="23%" alt="ShelfPod screenshot 4">
 </p>
 
 <p align="center">
-  <img src=".github/assets/screenshots/04-sleep-timer.jpg" width="31%" alt="ShelfPod sleep timer">
-  <img src=".github/assets/screenshots/05-search.jpg" width="31%" alt="Podcast discovery and search in ShelfPod">
-  <img src=".github/assets/screenshots/06-library.jpg" width="31%" alt="ShelfPod library view">
+  <img src=".github/assets/screenshots/05.png" width="23%" alt="ShelfPod screenshot 5">&nbsp;&nbsp;
+  <img src=".github/assets/screenshots/06.png" width="23%" alt="ShelfPod screenshot 6">&nbsp;&nbsp;
+  <img src=".github/assets/screenshots/07.png" width="23%" alt="ShelfPod screenshot 7">&nbsp;&nbsp;
+  <img src=".github/assets/screenshots/08.png" width="23%" alt="ShelfPod screenshot 8">
 </p>
 
 ## What ShelfPod Does
