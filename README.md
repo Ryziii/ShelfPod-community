@@ -35,7 +35,7 @@ ShelfPod does not ship AI slop. A large part of the work goes into the details t
 
 Development began in May 2026. TestFlight builds followed in June, and ShelfPod launched on the App Store on August 12.
 
-The app is moving quickly while it is young. Five TestFlight builds - 109, 110, 112, 113, and 115 - were uploaded between August 9 and August 14. Version 0.2.0 is on the App Store, with 0.2.1 already moving through TestFlight. This pace reflects active stabilization and refinement; releases do not follow a fixed schedule.
+Updates are frequent and guided by real-world use and tester feedback.
 
 ## Requirements
 
