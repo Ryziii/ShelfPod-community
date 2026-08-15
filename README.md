@@ -1,12 +1,12 @@
 # ShelfPod
 
-A native iPhone and iPad client for podcasts and audiobooks on self-hosted [Audiobookshelf](https://www.audiobookshelf.org/) servers.
-
-**[Download on the App Store](https://apps.apple.com/app/id6781744751)** &middot; **[Join the TestFlight beta](https://testflight.apple.com/join/wszEWVsw)**
-
 > **In the AI era, ideas are abundant. Taste is scarce.**
 
+A native iPhone and iPad client for podcasts and audiobooks on self-hosted [Audiobookshelf](https://www.audiobookshelf.org/) servers.
+
 ShelfPod does not ship AI slop. A large part of the work goes into the details that decide whether an app feels coherent: interface, navigation, spacing, motion, gestures, scrolling, feedback, and predictable playback behavior.
+
+**[Download on the App Store](https://apps.apple.com/app/id6781744751)** &middot; **[Join the TestFlight beta](https://testflight.apple.com/join/wszEWVsw)**
 
 <p align="center">
   <img src=".github/assets/screenshots/01.png" width="23%" alt="ShelfPod screenshot 1">&nbsp;&nbsp;
