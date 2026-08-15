@@ -54,8 +54,4 @@ ShelfPod does not include media or provide an Audiobookshelf server. Some advanc
 
 For bug reports, include the ShelfPod version, iOS or iPadOS version, Audiobookshelf server version, connection type, and clear reproduction steps. Never post passwords, access tokens, private feed URLs, or unredacted logs.
 
-## About This Repository
-
-This repository contains ShelfPod product information, public bug reports, and feature requests. The ShelfPod app source code is not public.
-
 ShelfPod is independently developed and is not affiliated with or endorsed by the Audiobookshelf project.
